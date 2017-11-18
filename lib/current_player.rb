@@ -7,3 +7,7 @@ board.each do |index|
 end
   count
 end
+
+def current_player
+
+end
